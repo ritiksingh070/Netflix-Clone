@@ -1,0 +1,11 @@
+.card{
+    width: 200px;
+    cursor: pointer;
+    transition: 0.3s;
+    margin: 0.5rem;
+    border-radius: 5px;
+    &:hover{
+        transform: translateY(-10px) scale(1.02);
+        
+    }
+}

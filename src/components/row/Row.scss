@@ -1,0 +1,14 @@
+.row{
+    background-color: black;
+    padding: 0.5rem;
+    
+    h2{
+        padding-left: 0.5rem;
+        font-weight: 400;
+        color: white;
+    }
+    div{
+        display: flex;
+        overflow-x:auto;
+    }
+}
